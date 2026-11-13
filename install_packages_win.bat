@@ -7,5 +7,5 @@ start pip install shiboken6
 start pip install pillow
 
 mkdir out
-mkdir out/mcfunction
-mkdir out/temp
+mkdir out\mcfunction
+mkdir out\temp
