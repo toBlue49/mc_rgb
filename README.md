@@ -7,6 +7,6 @@ Lets you convert any image or Video into Minecraft blocks with a custom resource
 ## Usage
 - Install the colors_resourcepack.zip resourcepack
 - Install Python
-- Install Packages using install_win.bat or install_linux.sh
+- Install Packages using install_packages_win.bat or install_packages_linux.sh
 - Create a Datapack with any namespace
 - Use start_win.bat or start_linux.sh to start the script
